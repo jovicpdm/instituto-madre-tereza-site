@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.83641991.css",
+    "main.js": "/static/js/main.268b56e5.js",
+    "static/media/image6.jpg": "/static/media/image6.ee89e5b2b505b5b99a19.jpg",
+    "static/media/image7.jpg": "/static/media/image7.b7680cc07e2d84e3ae38.jpg",
+    "static/media/image5.jpg": "/static/media/image5.8bc1f0b35637e336b25d.jpg",
+    "static/media/image3.jpg": "/static/media/image3.4d81a1a42988647d2c8b.jpg",
+    "static/media/image11.jpg": "/static/media/image11.62fb135fd1fdd62957b2.jpg",
+    "static/media/image8.jpg": "/static/media/image8.da7588d27b7a019cf37a.jpg",
+    "static/media/image1.jpg": "/static/media/image1.f707454ded8cada49dcd.jpg",
+    "static/media/image2.jpg": "/static/media/image2.34fefb4d830d2a079d76.jpg",
+    "static/media/image4.jpg": "/static/media/image4.e0ea922717dceb2f0e10.jpg",
+    "static/media/image9.jpg": "/static/media/image9.3ed681dfbc630a215176.jpg",
+    "static/media/undraw_medicine.svg": "/static/media/undraw_medicine.efffdd6b275853db9eee39d3e9929cd3.svg",
+    "static/media/image10.jpg": "/static/media/image10.7448a2a61a911a189563.jpg",
+    "static/media/undraw_team_spirit.svg": "/static/media/undraw_team_spirit.30be7070a6c066755f1ba950a803808c.svg",
+    "static/media/undraw_map.svg": "/static/media/undraw_map.502289b4f5b05d18122c58eccb426281.svg",
+    "static/media/undraw_questions.svg": "/static/media/undraw_questions.697c4959672adc013db48cbf87d027c8.svg",
+    "index.html": "/index.html",
+    "main.83641991.css.map": "/static/css/main.83641991.css.map",
+    "main.268b56e5.js.map": "/static/js/main.268b56e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83641991.css",
+    "static/js/main.268b56e5.js"
+  ]
+}
