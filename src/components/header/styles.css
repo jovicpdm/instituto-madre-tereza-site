@@ -1,0 +1,30 @@
+.appHeader {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 2rem;
+  border-bottom: 2px solid var(--primary-color);
+}
+
+.title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-width: min-content;
+}
+
+@media (max-width: 1084px) {
+  .summary {
+    display: none;
+  }
+}
+
+@media (max-width: 600px) {
+  h1 {
+    font-size: 1rem;
+  }
+  .appHeader{
+    border-bottom: none;
+  }
+}

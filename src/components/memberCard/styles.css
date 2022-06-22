@@ -1,0 +1,27 @@
+.member-card-container {
+  padding: 0.5rem 0.75rem;
+  border-radius: 16px;
+  margin: 0.25rem;
+  width: 30rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+}
+
+.name {
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.office {
+  font-size: 0.75rem;
+  font-weight: 400;
+}
+
+@media (max-width: 500px) {
+  .member-card-container {
+    width: 20rem;
+  }
+}

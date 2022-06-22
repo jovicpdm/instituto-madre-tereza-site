@@ -1,0 +1,77 @@
+:root {
+  --primary-color: #3caca5;
+  --primary-color-light: #a0deda;
+  --primary-color-semi-white: #d9f2f0;
+  --primary-color-dark: #28716d;
+  --secondary-color: #834fb0;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: stretch;
+}
+
+h1 {
+  font-family: "Roboto", sans-serif;
+  font-size: 2.25rem;
+  color: var(--primary-color);
+  text-align: center;
+}
+
+h2 {
+  font-family: sans-serif;
+  font-size: 1.2rem;
+  color: var(--primary-color-light);
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+li {
+  color: var(--secondary-color);
+  margin-right: 2rem;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+a {
+  text-decoration: none;
+  color: var(--primary-color);
+}
+
+a:hover {
+  color: var(--secondary-color);
+}
+
+.divider {
+  margin-top: 2.25rem;
+}
+
+.semi-white-container {
+  background-color: var(--primary-color-semi-white);
+  padding: 2rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+@media (max-width: 500px){
+  .semi-white-container{
+    display: flex;
+    flex-direction: column;
+  }
+}

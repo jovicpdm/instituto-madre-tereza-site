@@ -1,0 +1,47 @@
+.city-operating-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+*{
+  text-align: center;
+}
+
+.city-name {
+  color: #070707;
+  padding: 0.25rem 0;
+  text-align: center;
+  font-size: 1.25rem;
+  font-weight: 600;
+  font-family: "Roboto", sans-serif;
+}
+
+.button {
+  border: none;
+  background: none;
+  font-size: 1.5rem;
+  color: var(--secondary-color);
+}
+
+.button :hover {
+  color: var(--primary-color);
+}
+
+.icon-container {
+  align-self: center;
+}
+
+.hospital-container{
+  padding: 0.5rem;
+}
+
+.hospital-name{
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.hospital-address{
+  font-size: 0.8rem;
+  font-weight: 400;
+}

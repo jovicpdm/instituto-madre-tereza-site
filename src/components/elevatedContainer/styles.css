@@ -1,0 +1,20 @@
+.elevated-container {
+    margin: 1rem 1rem;
+    box-shadow: -1px 0.25rem 0.25rem     rgba(0, 0, 0, 0.25);
+    border-radius: 1rem;
+    /* padding: 0.5rem 1.25rem; */
+    max-width: 40rem;
+    background-color: white;
+    /* flex-wrap: wrap; */
+  }
+
+.elevated-container-colored{
+  background: var(--primary-color-semi-white);
+}
+
+  @media (max-width: 600px){
+    .elevated-container{
+      max-width: 21rem;
+      margin: 1rem;
+    }
+  }
