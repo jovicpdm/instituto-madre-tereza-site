@@ -22,11 +22,11 @@ const ActionSectionCard = (props) => {
             ))}
           </Slide>
         </div> */}
-        <div className="action-section-card-a-div" >
+        {/* <div className="action-section-card-a-div" >
           <a href="/noticias" className="action-section-card-a">
             Clique aqui para ver as últimas notícias
           </a>
-        </div>
+        </div> */}
       </div>
     </ElevatedContainer>
   );
