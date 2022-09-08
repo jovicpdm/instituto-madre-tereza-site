@@ -62,13 +62,14 @@ const ActionSection = () => {
           subtitle={
             "Um auxilio financeiro para famílias carentes para uso exclusivo de compra de alimento em supermercados parceiros"
           }
-          images={imageAfs}
+          // images={imageAfs}
         />
         <ActionSectionCard
           title="Projeto Realizando Sonhos, Resgatando e Formando Cidadãos"
           subtitle="Projeto de ensino de Jiu Jitsu para as crianças e adolescentes   de Itupiranga e Cajazeiras"
-          images={imageJJs}
+          // images={imageJJs}
         />
+        
       </div>
     </section>
   );
